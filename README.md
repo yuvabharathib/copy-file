@@ -23,8 +23,8 @@ Use write function to copy the read file that has been stored in the variable.
 ### Step 5: 
 The content in the original file will be copied in the new file.
 
-### Step 6:                                                                                                                                                  End the program  
-
+### Step 6:
+End the program
 
 ## PROGRAM:
 ```python
