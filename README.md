@@ -38,7 +38,6 @@ with open('yuva.txt','r')as f1:
  ```           
 
 ### OUTPUT:
-![Screenshot from 2022-10-06 13-47-52](https://user-images.githubusercontent.com/113497404/194260407-355fba64-9a4c-40cc-aadf-120f115c323c.png)
 
 Text file:
 ![Screenshot from 2022-10-06 13-50-02](https://user-images.githubusercontent.com/113497404/194261083-2b75c204-55f9-4aa2-8d0e-2c7fc88c08de.png)
@@ -46,6 +45,8 @@ Text file:
 Copy file:
 ![Screenshot from 2022-10-06 13-50-14](https://user-images.githubusercontent.com/113497404/194261193-7dc98f45-7031-462e-b40f-834b998ed0bb.png)
 
+output:
+![Screenshot from 2022-10-14 10-31-57](https://user-images.githubusercontent.com/113497404/195766393-91585aa6-6483-484f-87fd-05adbfe847a8.png)
 
 
 ## RESULT:
